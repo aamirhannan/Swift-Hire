@@ -1,5 +1,5 @@
 {
-  "name": "hirehub",
+  "name": "swifthire",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -9,7 +9,6 @@
   "engines": {
     "node": ">=14.20.1"
   },
-
   "author": "",
   "license": "ISC",
   "dependencies": {
@@ -24,11 +23,11 @@
     "mongoose": "^7.0.2",
     "passport": "^0.6.0",
     "passport-local": "^1.0.0",
-    "passport-local-mongoose": "^8.0.0",
-    "webpack": "^5.82.1"
+    "passport-local-mongoose": "^8.0.0"
   },
   "description": "",
   "devDependencies": {
-    "webpack-cli": "^5.1.1"
+    "webpack": "^2.1.0-beta.22",
+    "webpack-cli": "^5.1.4"
   }
 }
